@@ -1,6 +1,6 @@
 # Card Auxiliary Tool
 
-Version: v0.1b
+Version: v0.1b in Development
 
 This tool was created for auxiliary the user in creating a tester.
 
