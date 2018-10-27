@@ -386,7 +386,4 @@ class Auxiliary extends CreditCard {
 	}
 	
 }
-
-$x = new Auxiliary();
-echo $x->checkProxy("187.72.166.10:8080", "http");
 ?>
