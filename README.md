@@ -2,6 +2,8 @@
 
 Version: v0.1b in Development
 
+Required: PHP 7.0+
+
 This tool was created for auxiliary the user in creating a tester.
 
 # Auxiliary's:
